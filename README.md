@@ -52,4 +52,4 @@ License plate recognition has numerous applications, including automated toll co
 
 - Performance may vary depending on image quality, lighting conditions, and angle of the license plate.
 - The current implementation may struggle with non-standard license plate formats or heavily distorted text.
-- Future improvements could include training custom OCR models for better performance on license plates from specific regions or countries.
+- Future improvements could include training custom OCR models for better performance on license plates from specific regions or countries..
